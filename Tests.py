@@ -6,16 +6,7 @@ import unittest
 import requests
 from threading import Thread
 
-'''
-test - 
-1.create output (dict)
-2.execute post requests.
-3.wait x seconds.
-4.get response with x+1 seconds.
-5.assert output = response
 
-
-'''
 
 
 class TestDiGraph(TestCase):
