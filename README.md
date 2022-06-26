@@ -13,8 +13,8 @@
                   'security' : ...
                 }
           
-          first of all 
-          the code first of all checks if there is an existing JSON file to load previous data into the keywords dictionary.
+      
+          first of all the code checks if there is an existing JSON file to load previous data into the keywords dictionary.
           o.w initialize keywords with new dictionary.
           then using flask to create an API with two entries :
             1. events
